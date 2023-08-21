@@ -644,6 +644,7 @@ footer {
 .project {
     position: relative;
     max-width: 900px;
+    height: 30rem;
     margin: 0 auto 30px auto;
     overflow: hidden;
     background: #fff;
@@ -659,7 +660,7 @@ footer {
     top: 50%;
     transform: translateY(-50%);
     margin-left: 300px;
-    padding: 15px;
+    padding: 30px;
 
     h3 {
         font-size: 1.5em;
