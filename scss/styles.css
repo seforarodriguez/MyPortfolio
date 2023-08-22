@@ -814,8 +814,13 @@ footer {
   .project-image {
     display: none;
   }
+  .project-container {
+    display: flex;
+  }
   .project-info {
     position: relative;
+    display: flex;
+    justify-content: center;
     margin: 0;
     padding: 30px 15px;
     top: auto;
